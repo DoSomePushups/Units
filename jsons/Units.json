@@ -747,7 +747,7 @@
 		"name": "Stoneslinger",
 		"unitType": "Archery",
 		"movement": 2,
-		"strength": 6,
+		"strength": 1,
 		"rangedStrength": 6,
 		"range": 1,
 		"cost": 40,
