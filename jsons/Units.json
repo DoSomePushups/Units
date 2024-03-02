@@ -744,7 +744,7 @@
 
 	//rangedA
 	{
-		"name": "Stoneslinger",
+		"name": "Игнат"
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 4,
