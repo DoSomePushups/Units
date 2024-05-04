@@ -78,6 +78,7 @@
 	}, 
 	{
 		"name": "God's Defence",
+		"replaces": "Castle", 
 		"uniqueTo": "Macrobia", 
 		"cityStrength": 1000,
 		"cityHealth": 1000,
