@@ -3018,14 +3018,15 @@
 	
 {
 		"name": "God's Missile",
+	        "uniqueTo": "Macrobia", 
 		"unitType": "Missile",
 		"movement": 1,
-		"strength": -1000,
-		"rangedStrength": -1000,
+		"strength": 25000,
+		"rangedStrength": 25000,
 		"range": 30,
 		"cost": 1,
 		"requiredTech": "Astronomy",
-		"uniques": ["Nuclear weapon of Strength [-1000]",
+		"uniques": ["Nuclear weapon of Strength [100000]",
 			"Blast radius [150]", "No defensive terrain bonus", "Can move after attacking",
       "All tiles cost 0 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit", "[+50] Sight", "[100] additional attacks per turn", "Can see over obstacles",
       "All adjacent units heal [+100] HP when healing", "Ignores terrain cost", "Ranged attacks may be performed over obstacles", "[100]% chance to intercept air attacks", "Can see invisible [All] units",
