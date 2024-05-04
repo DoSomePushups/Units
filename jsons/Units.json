@@ -3014,6 +3014,20 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units", "Can carry [2] [Ballistic] units", "[70]% chance to intercept air attacks", "Never appears as a Barbarian unit"]
-	}
-
+	}, 
+	
+{
+		"name": "God's Missile",
+		"unitType": "Missile",
+                "uniqueTo": "Macrobia", 
+		"movement": 1,
+		"strength": 250000,
+		"rangedStrength": 250000,
+		"range": 100,
+		"cost": 1,
+		"requiredTech": "Astronomy",
+		"uniques": ["Nuclear weapon of Strength [250000]",
+			"Blast radius [250000]"],
+		"attackSound": "nuke"
+	},
 ]
