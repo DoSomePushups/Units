@@ -3019,7 +3019,6 @@
 {
 		"name": "God's Missile",
 		"unitType": "Missile",
-                "uniqueTo": "Macrobia", 
 		"movement": 1,
 		"strength": 25000,
 		"rangedStrength": 25000,
