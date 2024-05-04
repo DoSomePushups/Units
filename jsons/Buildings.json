@@ -75,5 +75,14 @@
 		"requiredBuilding": "Courthouse",
 		"uniques": ["[+33]% Natural religion spread [in this city]","Hidden when religion is disabled"],
 		"requiredTech": "Theology"
+	}, 
+	{
+		"name": "God's Defence",
+		"uniqueTo": "Macrobia", 
+		"cityStrength": 1000,
+		"cityHealth": 1000,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
