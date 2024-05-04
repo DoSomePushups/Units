@@ -3014,5 +3014,22 @@
 		"requiredTech": "Nuclear Fission",
 		"requiredResource": "Uranium",
 		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units", "Can carry [2] [Ballistic] units", "[70]% chance to intercept air attacks", "Never appears as a Barbarian unit"]
-	}
+	}, 
+	{
+      "name": "The God",
+      "unitType": "Scout",
+      "uniqueTo": "Macrobia",
+      "movement": 200,
+      "strength": 1000,
+      "rangedStrength": 1000,
+      "interceptRange": 10,
+      "range": 20,
+      "cost": 10,
+      "uniques": ["No defensive terrain bonus", "Can move after attacking",
+      "All tiles cost 0 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit", "[+20] Sight", "[100] additional attacks per turn", "Can see over obstacles",
+      "All adjacent units heal [+100] HP when healing", "Ignores terrain cost", "Ranged attacks may be performed over obstacles", "[100]% chance to intercept air attacks", "Can see invisible [All] units",
+      "[+100] Movement <when [Embarked]>", "Can move immediately once bought"],
+      "promotions": ["Ignore terrain cost"],
+      "attackSound": "bombing"
+    }
 ]
