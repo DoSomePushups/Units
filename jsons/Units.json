@@ -3025,7 +3025,7 @@
 		"rangedStrength": 25000,
 		"range": 30,
 		"cost": 1,
-		"requiredTech": "Astronomy",
+		"requiredTech": "Sailing",
 		"uniques": ["Nuclear weapon of Strength [100000]",
 			"Blast radius [150]", "No defensive terrain bonus", "Can move after attacking",
       "All tiles cost 0 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit", "[+50] Sight", "[100] additional attacks per turn", "Can see over obstacles",
